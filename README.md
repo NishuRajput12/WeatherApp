@@ -19,4 +19,7 @@ A simple weather web app that fetches and displays real-time weather data using 
 - Weather icons change according to conditions
 - Error message for invalid city
 - Fully responsive design
-
+- 
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/NishuRajput12/WeatherApp.git
